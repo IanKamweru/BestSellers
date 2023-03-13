@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<p align="center"><img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/></p>
+<p align="center"><img src='walkthrough.gif' title='Video Walkthrough' width='400' alt='Video Walkthrough'/></p>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with **LiceCap**.   
